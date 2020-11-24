@@ -4,15 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hello JSP..!!1111</title>
+<title>Hello JSP..!!</title>
 </head>
 <body>
 	<h2>안녕하세요? JSP입니다.</h2>
 	<%
-	String str ="나는 String 객체입니다.";
+	String str = "나는 String 객체입니다.";
 	%>
 	<%=str %>
-	
-	
 </body>
 </html>
